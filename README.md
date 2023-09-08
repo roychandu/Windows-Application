@@ -17,6 +17,7 @@
 ![Forgot Screen](/Software%20Screens/Nurse_Reset_Password_Screen.png)
 
 ### Nurse New Registration Screen
+------------------------------------------------------------------------------------
 ![New Nurse](/Software%20Screens/New_Nurese_Registration_Screen.png)
 
 ### This is Nurse Dashboard Screen
